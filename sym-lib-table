@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "Muskrat")(type "Legacy")(uri "${KIPRJMOD}/symbols/Muskrat.lib")(options "")(descr ""))
+  (lib (name "LM2575SX-33")(type "Legacy")(uri "${KIPRJMOD}/symbols/LM2575SX-33.lib")(options "")(descr ""))
+  (lib (name "LM2575SX-12")(type "Legacy")(uri "${KIPRJMOD}/symbols/LM2575SX-12.lib")(options "")(descr ""))
+  (lib (name "LM5109BMAX")(type "Legacy")(uri "${KIPRJMOD}/symbols/LM5109BMAX.lib")(options "")(descr ""))
+)
